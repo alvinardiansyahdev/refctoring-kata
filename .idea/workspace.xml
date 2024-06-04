@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7edb098-fd7a-423b-bf08-507c7c8f82b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/php/src/Model/ShoppingCart.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/src/Model/ShoppingCart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/src/Model/Teller.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/src/Model/Teller.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alvinardiansyahdev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata.git&quot;,
+    &quot;accountId&quot;: &quot;5864b694-356b-4d4b-b1f3-286acbe076f0&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/php/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/php/vendor/php-ds/php-ds" />
+      <path value="$PROJECT_DIR$/php/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/php/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php/vendor/phpstan/phpstan-phpunit" />
+      <path value="$PROJECT_DIR$/php/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php/vendor/symplify/easy-coding-standard" />
+      <path value="$PROJECT_DIR$/php/vendor/symplify/phpstan-extensions" />
+      <path value="$PROJECT_DIR$/php/vendor/approvals/approval-tests" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hMb4rmCvMMCs0qzoQV12iasSzF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;with__tests&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/ubuntu/home/alvin/work/epuskesmas_5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/php/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7edb098-fd7a-423b-bf08-507c7c8f82b5" name="Changes" comment="" />
+      <created>1717406705396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717406705396</updated>
+      <workItem from="1717406706711" duration="2161000" />
+      <workItem from="1717462000989" duration="6060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
